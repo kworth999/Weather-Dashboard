@@ -1,0 +1,13 @@
+#submitSearch { 
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+ }
+ 
+ #recentCity :hover {
+    color: black !important;
+    background-color: #00d1b2 !important;
+    transition: .3s;
+    letter-spacing: 1px;   
+ }
